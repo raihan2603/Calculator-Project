@@ -4,7 +4,9 @@ body{
 }
 .center{
     text-align:center;
+    color:white;
 }
+
 button{
     width:66px;
     padding:20px;
@@ -13,6 +15,7 @@ button{
     border:none;
     background-color:lightblue;
     transition:all 0.3s;
+    font-size:22px;
 }
 button:hover{
  box-shadow:0px 8px 16px 0 rgba(0,0,0,0.2);
